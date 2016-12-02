@@ -1,0 +1,14 @@
+body{
+	background-image: url("../images/snow.png");
+}
+
+.video{
+	text-align: center;
+}
+
+p{
+	color: #00008B;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
